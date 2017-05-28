@@ -4839,6 +4839,10 @@ tbody.collapse.in {
     }
 }
 
+.spoiler-body {
+    display: none;
+}
+
 @media (min-width: 992px) {
     .navbar-left {
         float: left !important
