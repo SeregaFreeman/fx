@@ -2036,7 +2036,7 @@ a:hover {
     line-height: 35px;
 }
 
-.btn-custom-color2{
+.btn-custom-color2 {
     background: #587fae;
     color: #fff;
 }
@@ -2400,57 +2400,57 @@ a.txt-gradient:hover {
 }
 
 .nav-phone > .dropstrong > .managers-scroll-container > .manager-container > .manager-phoneNumber a:hover,
-.nav-phone > .dropstrong > .managers-scroll-container > .manager-container > .manager-phoneNumber a:focus{
+.nav-phone > .dropstrong > .managers-scroll-container > .manager-container > .manager-phoneNumber a:focus {
     text-decoration: none;
 }
 
 .navbar-custom-default .navbar-custom-nav > li.nav-auth.open > a:before, .navbar-custom-default .navbar-custom-nav > li.nav-auth:hover:not(.notouch) > a:before,
-.navbar-custom-default .navbar-custom-nav > li.nav-auth.open > a:before, .navbar-custom-default .navbar-custom-nav > li.nav-phone:hover:not(.notouch) > a:before{
+.navbar-custom-default .navbar-custom-nav > li.nav-auth.open > a:before, .navbar-custom-default .navbar-custom-nav > li.nav-phone:hover:not(.notouch) > a:before {
     background: #fff;
     box-shadow: 0 0 8px rgba(0, 0, 0, .15)
 }
 
-.navbar-custom-default .navbar-custom-nav > li.nav-auth.open > a:after, .navbar-custom-default .navbar-custom-nav > li.nav-auth:hover:not(.notouch) > a:after{
+.navbar-custom-default .navbar-custom-nav > li.nav-auth.open > a:after, .navbar-custom-default .navbar-custom-nav > li.nav-auth:hover:not(.notouch) > a:after {
     top: 2px;
     border-bottom: 3px solid #048ccd;
     border-top: 3px solid transparent
 }
 
-.navbar-custom-default .navbar-custom-nav > li.nav-auth.open > a:after, .navbar-custom-default .navbar-custom-nav > li.nav-phone:hover:not(.notouch) > a:after{
+.navbar-custom-default .navbar-custom-nav > li.nav-auth.open > a:after, .navbar-custom-default .navbar-custom-nav > li.nav-phone:hover:not(.notouch) > a:after {
     transform: scale(1, -1);
 }
 
 @media only screen
-and (min-device-width : 414px)
-and (max-device-width : 736px)
-and (orientation : landscape) {
+and (min-device-width: 414px)
+and (max-device-width: 736px)
+and (orientation: landscape) {
 }
 
 @media only screen
-and (min-device-width : 375px)
-and (max-device-width : 667px)
-and (orientation : portrait) {
+and (min-device-width: 375px)
+and (max-device-width: 667px)
+and (orientation: portrait) {
 }
 
 @media only screen
-and (min-device-width : 320px)
-and (max-device-width : 568px)
-and (orientation : landscape) {
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (orientation: landscape) {
 }
 
 @media only screen
-and (min-device-width : 320px)
-and (max-device-width : 568px)
-and (orientation : portrait) {
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (orientation: portrait) {
 }
 
 .navbar-custom-default .navbar-custom-nav > li.nav-auth > .dropstrong li,
-.navbar-custom-default .navbar-custom-nav > li.phone > .dropstrong li{
+.navbar-custom-default .navbar-custom-nav > li.phone > .dropstrong li {
     font-weight: 400;
     letter-spacing: .8px
 }
 
-.navbar-custom-default .navbar-custom-nav > li.nav-auth > .dropstrong li a{
+.navbar-custom-default .navbar-custom-nav > li.nav-auth > .dropstrong li a {
     padding: 1.125rem 1.75rem;
     text-decoration: none;
     font-size: 1rem;
@@ -2459,7 +2459,7 @@ and (orientation : portrait) {
     text-transform: none
 }
 
-.navbar-custom-default .navbar-custom-nav > li.nav-auth > .dropstrong li a:hover{
+.navbar-custom-default .navbar-custom-nav > li.nav-auth > .dropstrong li a:hover {
     background: #ebebeb
 }
 
@@ -2486,7 +2486,7 @@ and (orientation : portrait) {
     right: -.9375rem;
 }
 
-.navbar-custom-default .navbar-custom-nav > li.nav-auth > a:after{
+.navbar-custom-default .navbar-custom-nav > li.nav-auth > a:after {
     content: "";
     position: absolute;
     right: 0;
@@ -2500,7 +2500,7 @@ and (orientation : portrait) {
     margin: auto
 }
 
-.navbar-custom-default .navbar-custom-nav > li.nav-phone > a:after{
+.navbar-custom-default .navbar-custom-nav > li.nav-phone > a:after {
     content: "";
     position: absolute;
     right: -15px;
@@ -2611,12 +2611,12 @@ and (orientation : portrait) {
 
 }
 
-.hero{
+.hero {
     position: relative;
-	overflow: hidden;
+    overflow: hidden;
 }
 
-.hero .live-quotes{
+.hero .live-quotes {
     width: 100%;
     position: absolute;
     top: 5px;
@@ -2684,7 +2684,7 @@ and (orientation : portrait) {
     letter-spacing: -6px
 }
 
-.hero-contest-col-right .btn-custom-color1{
+.hero-contest-col-right .btn-custom-color1 {
     width: 225px;
     margin-top: 35px;
 }
@@ -2693,18 +2693,18 @@ and (orientation : portrait) {
     position: relative;
 }
 
-.hero-contest-col-right .btn-custom-color1:before{
+.hero-contest-col-right .btn-custom-color1:before {
     position: absolute;
-    content:" ";
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
+    content: " ";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     display: none;
-    z-index:0;
+    z-index: 0;
 }
 
-.hero-contest-col-right .btn-custom-color1:hover:before{
+.hero-contest-col-right .btn-custom-color1:hover:before {
     display: block;
     background-color: rgba(39, 39, 39, 0.15);
     border-radius: 4px;
@@ -2712,7 +2712,7 @@ and (orientation : portrait) {
 
 @media (max-width: 991px) {
 
-    .hero-contest-col .btn-custom-color1{
+    .hero-contest-col .btn-custom-color1 {
         margin-top: 100px;
         width: calc(100% - 60px);
         max-width: 310px;
@@ -2723,32 +2723,33 @@ and (orientation : portrait) {
         text-decoration: none;
     }
 }
+
 /*iphone 5/5s lanscape*/
 @media only screen
-and (min-device-width : 320px)
-and (max-device-width : 568px)
-and (orientation : landscape) {
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (orientation: landscape) {
 }
 
 /*iphone 5/5s portrait*/
 @media only screen
-and (min-device-width : 320px)
-and (max-device-width : 568px)
-and (orientation : portrait) {
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (orientation: portrait) {
 }
 
 /*iphone 6 portrait*/
 @media only screen
-and (min-device-width : 414px)
-and (max-device-width : 736px)
-and (orientation : portrait) {
+and (min-device-width: 414px)
+and (max-device-width: 736px)
+and (orientation: portrait) {
 }
 
 /*iphone 6 landscape*/
 @media only screen
-and (min-device-width : 414px)
-and (max-device-width : 736px)
-and (orientation : landscape) {
+and (min-device-width: 414px)
+and (max-device-width: 736px)
+and (orientation: landscape) {
 }
 
 .hero-benefits__description p {
@@ -3586,19 +3587,18 @@ and (orientation : landscape) {
 }
 
 @media screen and (min-width: 991px) {
-    .navbar-custom-default .navbar-custom-nav > li.nav-phone > a:before{
+    .navbar-custom-default .navbar-custom-nav > li.nav-phone > a:before {
         right: -1.9375rem;
     }
 
 }
 
-div.item div.active{
+div.item div.active {
     height: 500px;
 }
 
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-
     margin: auto;
 }
 
